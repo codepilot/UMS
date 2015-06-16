@@ -1,0 +1,5 @@
+Debug/usm.pdb
+*.tlog
+*.obj
+usm/Debug/usm.exe.embed.manifest
+usm/Debug/usm.exe.embed.manifest.res
